@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/shuckle-coding-friends.png" alt="코딩하는 단단지와 친구들" width="100%" />
+</p>
+
 <div align="center">
 
 
