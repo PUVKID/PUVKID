@@ -205,3 +205,16 @@
 프로젝트를 열면 사용한 방법과 차수별 변화, 확인한 결과를 함께 보실 수 있습니다.
 
 </div>
+
+
+## 2026-10-30 추가 프로젝트
+
+- [Codex Orbit](https://github.com/PUVKID/Codex-Orbit-Project)
+- [Codex 라우팅 도구](https://github.com/PUVKID/Codex-Routing-Tools-Project)
+- [Markdown 지침 적용 실증 도구](https://github.com/PUVKID/Codex-Markdown-Application-Project)
+- [ThumbnailCare](https://github.com/PUVKID/ThumbnailCare-Project)
+- [Docker 연구 환경](https://github.com/PUVKID/Docker-Research-Environment-Project)
+- [Docker 이전 보조 도구](https://github.com/PUVKID/Docker-Migration-Project)
+- [AI 학습노트](https://github.com/PUVKID/AI-Learning-Notes-Project)
+- [Transformer 논문 학습 해설](https://github.com/PUVKID/Transformer-Study-Notes-Project)
+- [XAI·적대적 예제 학습 해설](https://github.com/PUVKID/XAI-Study-Notes-Project)
