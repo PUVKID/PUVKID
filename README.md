@@ -173,14 +173,6 @@
 <p><a href="https://github.com/PUVKID/FlipRing-File-Converter-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/FlipRing-File-Converter-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
 </blockquote>
 
-<h2 align="center">🛰️ Python·PySide6 위젯</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Codex-Orbit-Project">🪐 Codex Orbit Project</a></h3>
-<p>로컬 모델·추론 설정과 사용 한도 표시를 다루는 Windows용 Codex 위젯입니다.</p>
-<p><a href="https://github.com/PUVKID/Codex-Orbit-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Codex-Orbit-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
 <a name="android"></a>
 
 <h1 align="center">📱 Android 자동화</h1>
