@@ -7,7 +7,7 @@
 
 # 👋 안녕하세요, 곽윤석입니다
 
-**Kwak Yunsuk · PUVKID**
+**Kwak Yunsuk**
 
 컴퓨터 비전으로 이미지를 살피고, 아이디어를 소프트웨어로 만듭니다.<br>
 🔬 연구의 질문과 결과를, 💻 개발의 과정과 차수별 변화를 함께 기록합니다.
@@ -207,3 +207,15 @@
 </div>
 
 
+
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **프로필 소개와 이미지** | [📁 검수 자료](assets) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
+
+[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
+
+</details>
