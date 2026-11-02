@@ -1,8 +1,8 @@
 # 🗂️ 프로젝트 탐색
 
-| 둘러보기 | 이미지 | 소개 | 프로젝트 |
-| :--- | :--- | :--- | :--- |
-| 프로필 | [🎨 단단지 배너](../assets) | [👋 소개](../README.md) | [🗂️ 주제별 프로젝트](REVISION_INDEX.md) |
+| 둘러보기 | 이미지 | 소개 | 프로젝트 | 변경 기록 |
+| :--- | :--- | :--- | :--- | :--- |
+| 프로필 | [🎨 단단지 배너](../assets) | [👋 소개](../README.md) | [🗂️ 주제별 프로젝트](REVISION_INDEX.md) | [📝 변경 기록](changes/2026-11-03-프로필정리.md) |
 
 - [🫁 Lung CT Privacy Project](https://github.com/PUVKID/Lung-CT-Privacy-Project)
 - [🏭 Camera Module Anomaly Project](https://github.com/PUVKID/Camera-Module-Anomaly-Project)
@@ -17,7 +17,6 @@
 - [⭐ Rating Aware Recommendation Project](https://github.com/PUVKID/Rating-Aware-Recommendation-Project)
 - [🪙 Upbit Paper Trading Project](https://github.com/PUVKID/Upbit-Paper-Trading-Project)
 - [🍃 Indoor Air Monitor Project](https://github.com/PUVKID/Indoor-Air-Monitor-Project)
-- [📦 EXP Project](https://github.com/PUVKID/EXP-Product-Manager-Project)
 - [🔄 FlipRing Project](https://github.com/PUVKID/FlipRing-File-Converter-Project)
 - [🪐 Codex Orbit](https://github.com/PUVKID/Codex-Orbit)
 - [🤖 PXE Project](https://github.com/PUVKID/PXE-Touch-Macro-Project)

@@ -157,14 +157,6 @@
 
 <h1 align="center">🖥️ 데스크톱 소프트웨어</h1>
 
-<h2 align="center">🛍️ Windows Forms·브라우저 자동화</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/EXP-Product-Manager-Project">📦 EXP Project</a></h3>
-<p>번장 상품 편집·등록과 예약 작업을 관리하는 Windows 앱입니다.</p>
-<p><a href="https://github.com/PUVKID/EXP-Product-Manager-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/EXP-Product-Manager-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
 <h2 align="center">📄 Qt·문서 처리</h2>
 
 <blockquote>
@@ -214,6 +206,6 @@
 
 </div>
 
-| 둘러보기 | 이미지 | 소개 | 프로젝트 |
-| :--- | :--- | :--- | :--- |
-| 프로필 | [🎨 단단지 배너](assets) | [👋 소개](README.md) | [🗂️ 프로젝트 탐색](docs/REVISION_INDEX.md) |
+| 둘러보기 | 이미지 | 소개 | 프로젝트 | 변경 기록 |
+| :--- | :--- | :--- | :--- | :--- |
+| 프로필 | [🎨 단단지 배너](assets) | [👋 소개](README.md) | [🗂️ 프로젝트 탐색](docs/REVISION_INDEX.md) | [📝 변경 기록](docs/changes/2026-11-03-프로필정리.md) |
