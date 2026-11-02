@@ -173,6 +173,14 @@
 <p><a href="https://github.com/PUVKID/FlipRing-File-Converter-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/FlipRing-File-Converter-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
 </blockquote>
 
+<h2 align="center">🪐 바탕화면 위젯·작업 알림</h2>
+
+<blockquote>
+<h3><a href="https://github.com/PUVKID/Codex-Orbit">🪐 Codex Orbit</a></h3>
+<p>날짜마다 바뀌는 3D 바탕화면 위젯에서 시계·기온·사용 한도를 보고, Codex의 모델 변경과 작업 알림을 확인합니다.</p>
+<p><a href="https://github.com/PUVKID/Codex-Orbit">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Codex-Orbit/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
+</blockquote>
+
 <a name="android"></a>
 
 <h1 align="center">📱 Android 자동화</h1>
@@ -206,16 +214,6 @@
 
 </div>
 
-
-
-
-<details>
-<summary>🧹 공개 자료 정리 기록</summary>
-
-| 검수 대상 | 연결 자료 | 상세·이번 비교 |
-| :--- | :--- | :--- |
-| **프로필 소개와 이미지** | [📁 검수 자료](assets) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
-
-[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
-
-</details>
+| 둘러보기 | 이미지 | 소개 | 프로젝트 |
+| :--- | :--- | :--- | :--- |
+| 프로필 | [🎨 단단지 배너](assets) | [👋 소개](README.md) | [🗂️ 프로젝트 탐색](docs/REVISION_INDEX.md) |
