@@ -1,211 +1,128 @@
 <p align="center">
-  <img src="assets/shuckle-coding-friends.png" alt="코딩하는 단단지와 친구들" width="100%" />
+  <img src="assets/shuckle-coding-friends.png" alt="코딩하는 단단지와 친구들" width="720" />
 </p>
 
-<div align="center">
+<a name="-안녕하세요-곽윤석입니다"></a>
+# Kwak Yunsuk · 곽윤석
 
+컴퓨터 비전과 딥러닝을 연구하고, 소프트웨어를 만듭니다.
 
-# 👋 안녕하세요, 곽윤석입니다
+Python · C# · Arduino · Unity
 
-**Kwak Yunsuk**
+[컴퓨터 비전](#computer-vision) · [비전·언어 연결](#vision-language) · [자연어 처리](#nlp) · [추천 시스템](#recommenders) · [시계열 예측·모의운용](#time-series) · [임베디드·IoT](#embedded) · [데스크톱 소프트웨어](#desktop) · [Android 자동화](#android) · [게임 프로그래밍](#game)
 
-컴퓨터 비전으로 이미지를 살피고, 아이디어를 소프트웨어로 만듭니다.<br>
-🔬 연구의 질문과 결과를, 💻 개발의 과정과 차수별 변화를 함께 기록합니다.
-
-`Python`
-`C#`
-`Arduino`
-`Unity`
-
-[👁️ 컴퓨터 비전](#computer-vision) · [💬 비전·언어 연결](#vision-language) · [📝 자연어 처리](#nlp) · [🧭 추천 시스템](#recommenders) · [📈 시계열 ML](#time-series)<br>
-[🌿 임베디드·IoT](#embedded) · [🖥️ 데스크톱](#desktop) · [📱 Android 자동화](#android) · [🎮 게임](#game)
-
-
-</div>
-
----
-
+<a name="️-컴퓨터-비전"></a>
+<a name="-딥러닝-영상-분류"></a>
+<a name="-딥러닝-객체-검출"></a>
+<a name="-객체-검출추적"></a>
+<a name="-기하-정렬영상-처리"></a>
 <a name="computer-vision"></a>
 
-<h1 align="center">👁️ 컴퓨터 비전</h1>
+## 컴퓨터 비전
 
-<p align="center">분류, 검출, 추적, 영상 처리.<br>이미지의 작은 차이에서 시작한 질문을 프로젝트별로 살펴보세요.</p>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-lung-ct-privacy-project"></a>[Lung CT Privacy Project](https://github.com/PUVKID/Lung-CT-Privacy-Project) | 영상 분류·프라이버시 | 입력·특징 변환에 따른 폐 CT 분류 성능 비교 |
+| <a name="-camera-module-anomaly-project"></a>[Camera Module Anomaly Project](https://github.com/PUVKID/Camera-Module-Anomaly-Project) | 영상 분류 | YOLO·ViT·CNN을 이용한 카메라 모듈 정상·불량 분류 |
+| [Face CT Transfer Project](https://github.com/PUVKID/Face-CT-Transfer-Project) | 얼굴 평가·전이학습 | 얼굴 벤치마크 평가와 폐 CT 분류 전이 연구 |
+| [CXR Privacy Lab](https://github.com/PUVKID/CXR-Privacy-Lab) | 환자 재식별 | 흉부 X선의 블러·모자이크와 재식별 성능 비교 |
+| <a name="-ball-defect-detection-project"></a>[Ball Defect Detection Project](https://github.com/PUVKID/Ball-Defect-Detection-Project) | 객체 검출 | YOLOv8n과 영상 필터를 이용한 작은 볼 결함 검출 |
+| <a name="-safewalk-project"></a>[SafeWalk Project](https://github.com/PUVKID/SafeWalk-Object-Detection-Project) | 객체 검출 | 보행환경 데이터 통합과 8개 클래스 탐지 |
+| <a name="-illegal-dumping-detection-project"></a>[Illegal Dumping Detection Project](https://github.com/PUVKID/Illegal-Dumping-Detection-Project) | 검출·추적 | 물체 정지 시간과 사람의 이탈에 따른 이벤트 탐지 |
+| <a name="-camera-module-gap-project"></a>[Camera Module Gap Project](https://github.com/PUVKID/Camera-Module-Gap-Detection-Project) | 기하 정렬·영상 처리 | 영상 정렬과 영역별 필터를 이용한 틈 측정 |
 
-<h2 align="center">🧠 딥러닝 영상 분류</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Lung-CT-Privacy-Project">🫁 Lung CT Privacy Project</a></h3>
-<p>블러·블록 변환이 폐 CT 분류 성능과 프라이버시에 미치는 영향을 비교합니다.</p>
-<p><a href="https://github.com/PUVKID/Lung-CT-Privacy-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Lung-CT-Privacy-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Camera-Module-Anomaly-Project">🏭 Camera Module Anomaly Project</a></h3>
-<p>YOLO·ViT·CNN으로 카메라 모듈의 정상·불량 분류 성능과 처리시간을 비교한 연구입니다.</p>
-<p><a href="https://github.com/PUVKID/Camera-Module-Anomaly-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Camera-Module-Anomaly-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<h2 align="center">🎯 딥러닝 객체 검출</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Ball-Defect-Detection-Project">🔎 Ball Defect Detection Project</a></h3>
-<p>YOLOv8n과 영상 필터를 조합해 작은 볼 결함의 검출 성능을 비교합니다.</p>
-<p><a href="https://github.com/PUVKID/Ball-Defect-Detection-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Ball-Defect-Detection-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/SafeWalk-Object-Detection-Project">🚶 SafeWalk Project</a></h3>
-<p>여러 데이터셋을 통합해 보행환경의 8개 클래스를 탐지합니다.</p>
-<p><a href="https://github.com/PUVKID/SafeWalk-Object-Detection-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/SafeWalk-Object-Detection-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<h2 align="center">🎬 객체 검출·추적</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Illegal-Dumping-Detection-Project">🧹 Illegal Dumping Detection Project</a></h3>
-<p>물체의 정지 시간과 사람의 이탈을 분석해 불법투기 의심 이벤트를 찾습니다.</p>
-<p><a href="https://github.com/PUVKID/Illegal-Dumping-Detection-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Illegal-Dumping-Detection-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<h2 align="center">📐 기하 정렬·영상 처리</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Camera-Module-Gap-Detection-Project">📏 Camera Module Gap Project</a></h3>
-<p>영상 정렬과 영역별 필터로 카메라 모듈의 틈 위치와 길이를 측정하는 연구입니다.</p>
-<p><a href="https://github.com/PUVKID/Camera-Module-Gap-Detection-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Camera-Module-Gap-Detection-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-컴퓨터-비전자연어-처리-연결"></a>
+<a name="️-검출-결과를-대화로-연결하기"></a>
 <a name="vision-language"></a>
 
-<h1 align="center">💬 컴퓨터 비전·자연어 처리 연결</h1>
+## 비전·언어 연결
 
-<h2 align="center">🖼️ 검출 결과를 대화로 연결하기</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-drawing-analysis-project"></a>[Drawing Analysis Project](https://github.com/PUVKID/Drawing-Analysis-Project) | 탐지 요약·대화 | YOLO 결과를 GPT 대화와 분석 PDF로 연결 |
+| <a name="️-art-therapy-dialogue-project"></a>[Art Therapy Dialogue Project](https://github.com/PUVKID/Art-Therapy-Dialogue-Project) | 대화·평가 | 그림 탐지 요약을 이용한 대화 구성과 평가 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Drawing-Analysis-Project">🎨 Drawing Analysis Project</a></h3>
-<p>YOLO 탐지 결과를 GPT 대화와 그림 분석 PDF로 연결합니다.</p>
-<p><a href="https://github.com/PUVKID/Drawing-Analysis-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Drawing-Analysis-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Art-Therapy-Dialogue-Project">🗨️ Art Therapy Dialogue Project</a></h3>
-<p>그림 탐지 요약으로 대화를 구성하고 평가 결과를 시각화한 프로토타입입니다.</p>
-<p><a href="https://github.com/PUVKID/Art-Therapy-Dialogue-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Art-Therapy-Dialogue-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-두 저장소는 구현 자료와 원고·평가 자료를 나누어 보관합니다. 이미지 자체를 언어 모델에 직접 넣는 방식과 구별해, 탐지 요약이 대화로 이어지는 과정을 설명합니다.
-
+<a name="-자연어-처리"></a>
+<a name="-감성콘텐츠-분류"></a>
 <a name="nlp"></a>
 
-<h1 align="center">📝 자연어 처리</h1>
+## 자연어 처리
 
-<h2 align="center">💭 감성·콘텐츠 분류</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-pokémon-brand-analysis-project"></a>[Pokémon Brand Analysis Project](https://github.com/PUVKID/Pokemon-Brand-Analysis-Project) | 감성·콘텐츠 분류 | 리뷰·콘텐츠의 분류와 감성 분석 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Pokemon-Brand-Analysis-Project">⚡ Pokémon Brand Analysis Project</a></h3>
-<p>포켓몬 관련 리뷰와 콘텐츠를 분류하고 감성 분석 결과를 시각화합니다.</p>
-<p><a href="https://github.com/PUVKID/Pokemon-Brand-Analysis-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Pokemon-Brand-Analysis-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-추천-시스템"></a>
+<a name="-사례-기반-추론"></a>
+<a name="️-그래프-신호-처리"></a>
 <a name="recommenders"></a>
 
-<h1 align="center">🧭 추천 시스템</h1>
+## 추천 시스템
 
-<h2 align="center">🧩 사례 기반 추론</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="️-adhd-play-therapy-project"></a>[ADHD Play Therapy Project](https://github.com/PUVKID/ADHD-Play-Therapy-Project) | 사례 기반 추론 | 유사 사례를 이용한 놀이치료 콘텐츠 추천 연구 |
+| <a name="-rating-aware-recommendation-project"></a>[Rating Aware Recommendation Project](https://github.com/PUVKID/Rating-Aware-Recommendation-Project) | 그래프 신호 처리 | 사용자 평점을 반영한 그래프 필터 추천 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/ADHD-Play-Therapy-Project">🕹️ ADHD Play Therapy Project</a></h3>
-<p>유사 사례를 바탕으로 디지털 놀이치료 콘텐츠를 추천하는 방법을 제안한 연구입니다.</p>
-<p><a href="https://github.com/PUVKID/ADHD-Play-Therapy-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/ADHD-Play-Therapy-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<h2 align="center">🕸️ 그래프 신호 처리</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Rating-Aware-Recommendation-Project">⭐ Rating Aware Recommendation Project</a></h3>
-<p>사용자 평점을 반영한 그래프 필터로 추천 순위를 만드는 연구입니다.</p>
-<p><a href="https://github.com/PUVKID/Rating-Aware-Recommendation-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Rating-Aware-Recommendation-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-시계열-머신러닝"></a>
+<a name="-트리-앙상블"></a>
 <a name="time-series"></a>
 
-<h1 align="center">📈 시계열 머신러닝</h1>
+## 시계열 예측·모의운용
 
-<h2 align="center">🌳 트리 앙상블</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-upbit-paper-trading-project"></a>[Upbit Paper Trading Project](https://github.com/PUVKID/Upbit-Paper-Trading-Project) | 트리 앙상블 | XGBoost 예측·모의체결·대시보드 |
+| [ETF Project](https://github.com/PUVKID/ETF-Project) | 사전학습 시계열 모델 | Chronos-2 추가 학습과 원화 기준 ETF 모의운용 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Upbit-Paper-Trading-Project">🪙 Upbit Paper Trading Project</a></h3>
-<p>XGBoost 예측과 모의체결·대시보드를 연결한 가상자산 모의투자 도구입니다.</p>
-<p><a href="https://github.com/PUVKID/Upbit-Paper-Trading-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Upbit-Paper-Trading-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-임베디드iot"></a>
+<a name="-센서-통신"></a>
 <a name="embedded"></a>
 
-<h1 align="center">🌿 임베디드·IoT</h1>
+## 임베디드·IoT
 
-<h2 align="center">🔌 센서 통신</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-indoor-air-monitor-project"></a>[Indoor Air Monitor Project](https://github.com/PUVKID/Indoor-Air-Monitor-Project) | 센서 통신 | Arduino 공기질 측정과 Python CSV 기록 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Indoor-Air-Monitor-Project">🍃 Indoor Air Monitor Project</a></h3>
-<p>Arduino로 실내 공기질을 측정하고 화면 표시와 Python CSV 기록으로 연결합니다.</p>
-<p><a href="https://github.com/PUVKID/Indoor-Air-Monitor-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Indoor-Air-Monitor-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
+[ICT-IndoorAD](https://github.com/ICT-IndoorAD) 공동 프로젝트에서 제가 작성한 Arduino 측정·LCD·LED 표시와 Python CSV 기록 부분입니다. [개인 담당 저장소](https://github.com/ICT-IndoorAD/Yunsuk-Kwak)에도 같은 작업을 정리했습니다.
 
-🤝 [ICT-IndoorAD](https://github.com/ICT-IndoorAD) 공동 프로젝트에서 제가 작성한 Arduino 측정·LCD·LED 표시와 Python CSV 기록 부분입니다. [개인 담당 저장소](https://github.com/ICT-IndoorAD/Yunsuk-Kwak)에서도 확인하실 수 있습니다.
-
+<a name="️-데스크톱-소프트웨어"></a>
+<a name="-qt문서-처리"></a>
+<a name="-바탕화면-위젯작업-알림"></a>
 <a name="desktop"></a>
 
-<h1 align="center">🖥️ 데스크톱 소프트웨어</h1>
+## 데스크톱 소프트웨어
 
-<h2 align="center">📄 Qt·문서 처리</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-flipring-project"></a>[FlipRing Project](https://github.com/PUVKID/FlipRing-File-Converter-Project) | 문서 처리 | 파일 변환·PDF 편집·OCR을 제공하는 Windows 앱 |
+| <a name="-codex-orbit"></a>[Codex Orbit](https://github.com/PUVKID/Codex-Orbit) | 바탕화면 위젯·알림 | 로컬 Codex 상태와 모델 변경 알림을 확인하는 Windows 도구 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/FlipRing-File-Converter-Project">🔄 FlipRing Project</a></h3>
-<p>파일 변환과 PDF 편집·OCR을 한 화면에서 처리하는 Windows 앱입니다.</p>
-<p><a href="https://github.com/PUVKID/FlipRing-File-Converter-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/FlipRing-File-Converter-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
-<h2 align="center">🪐 바탕화면 위젯·작업 알림</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Codex-Orbit">🪐 Codex Orbit</a></h3>
-<p>날짜마다 바뀌는 3D 바탕화면 위젯에서 시계·기온·사용 한도를 보고, Codex의 모델 변경과 작업 알림을 확인합니다.</p>
-<p><a href="https://github.com/PUVKID/Codex-Orbit">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Codex-Orbit/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-android-자동화"></a>
+<a name="-접근성화면-인식"></a>
 <a name="android"></a>
 
-<h1 align="center">📱 Android 자동화</h1>
+## Android 자동화
 
-<h2 align="center">👆 접근성·화면 인식</h2>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="-pxe-project"></a>[PXE Project](https://github.com/PUVKID/PXE-Touch-Macro-Project) | 접근성·화면 인식 | 글자와 접근성 정보를 이용한 조건별 터치 자동화 |
 
-<blockquote>
-<h3><a href="https://github.com/PUVKID/PXE-Touch-Macro-Project">🤖 PXE Project</a></h3>
-<p>화면의 글자와 접근성 정보를 읽어 조건에 맞는 터치를 실행하는 Android 앱입니다.</p>
-<p><a href="https://github.com/PUVKID/PXE-Touch-Macro-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/PXE-Touch-Macro-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
-
+<a name="-게임-프로그래밍"></a>
+<a name="️-unity-게임플레이"></a>
 <a name="game"></a>
 
-<h1 align="center">🎮 게임 프로그래밍</h1>
+## 게임 프로그래밍
 
-<h2 align="center">🕹️ Unity 게임플레이</h2>
-
-<blockquote>
-<h3><a href="https://github.com/PUVKID/Hole-It-Game-Project">🕳️ Hole It Project</a></h3>
-<p>물체를 흡수하며 성장하는 Unity 게임입니다.</p>
-<p><a href="https://github.com/PUVKID/Hole-It-Game-Project">🔎 프로젝트</a> / <a href="https://github.com/PUVKID/Hole-It-Game-Project/blob/main/docs/REVISION_INDEX.md">🗂️ 차수별 변화</a></p>
-</blockquote>
+| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| --- | --- | --- |
+| <a name="️-hole-it-project"></a>[Hole It Project](https://github.com/PUVKID/Hole-It-Game-Project) | Unity 게임플레이 | 물체를 흡수하며 성장하는 게임 |
 
 ---
 
-<div align="center">
-
-**🌱 궁금한 것은 실험하고, 배운 것은 코드로 남깁니다.**<br>
-프로젝트를 열면 사용한 방법과 차수별 변화, 확인한 결과를 함께 보실 수 있습니다.
-
-</div>
+[프로젝트별 차수와 문서](docs/REVISION_INDEX.md)에서 상세 설명과 변경 내용을 볼 수 있습니다.
 
 | 둘러보기 | 이미지 | 소개 | 프로젝트 |
-| :--- | :--- | :--- | :--- |
-| 프로필 | [🎨 단단지 배너](assets) | [👋 소개](README.md) | [🗂️ 프로젝트 탐색](docs/REVISION_INDEX.md) |
+| --- | --- | --- | --- |
+| 프로필 | [단단지 배너](assets) | [소개](README.md) | [프로젝트 탐색](docs/REVISION_INDEX.md) |
