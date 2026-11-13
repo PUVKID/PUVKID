@@ -20,16 +20,16 @@ Python · C# · Arduino · Unity
 
 ## 컴퓨터 비전
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="-lung-ct-privacy-project"></a>[Lung CT Privacy Project](https://github.com/PUVKID/Lung-CT-Privacy-Project) | 영상 분류·프라이버시 | 입력·특징 변환에 따른 폐 CT 분류 성능 비교 |
-| <a name="-camera-module-anomaly-project"></a>[Camera Module Anomaly Project](https://github.com/PUVKID/Camera-Module-Anomaly-Project) | 영상 분류 | YOLO·ViT·CNN을 이용한 카메라 모듈 정상·불량 분류 |
+| <a name="-camera-module-anomaly-project"></a>[Camera Module Anomaly Project](https://github.com/PUVKID/Camera-Module-Anomaly-Project) | 영상 분류 | YOLO·ViT·CNN으로 카메라 모듈 정상·불량 분류 |
 | [Face CT Transfer Project](https://github.com/PUVKID/Face-CT-Transfer-Project) | 얼굴 평가·전이학습 | 얼굴 벤치마크 평가와 폐 CT 분류 전이 연구 |
 | [CXR Privacy Lab](https://github.com/PUVKID/CXR-Privacy-Lab) | 환자 재식별 | 흉부 X선의 블러·모자이크와 재식별 성능 비교 |
-| <a name="-ball-defect-detection-project"></a>[Ball Defect Detection Project](https://github.com/PUVKID/Ball-Defect-Detection-Project) | 객체 검출 | YOLOv8n과 영상 필터를 이용한 작은 볼 결함 검출 |
+| <a name="-ball-defect-detection-project"></a>[Ball Defect Detection Project](https://github.com/PUVKID/Ball-Defect-Detection-Project) | 객체 검출 | YOLOv8n과 영상 필터로 작은 볼 결함 검출 |
 | <a name="-safewalk-project"></a>[SafeWalk Project](https://github.com/PUVKID/SafeWalk-Object-Detection-Project) | 객체 검출 | 보행환경 데이터 통합과 8개 클래스 탐지 |
 | <a name="-illegal-dumping-detection-project"></a>[Illegal Dumping Detection Project](https://github.com/PUVKID/Illegal-Dumping-Detection-Project) | 검출·추적 | 물체 정지 시간과 사람의 이탈에 따른 이벤트 탐지 |
-| <a name="-camera-module-gap-project"></a>[Camera Module Gap Project](https://github.com/PUVKID/Camera-Module-Gap-Detection-Project) | 기하 정렬·영상 처리 | 영상 정렬과 영역별 필터를 이용한 틈 측정 |
+| <a name="-camera-module-gap-project"></a>[Camera Module Gap Project](https://github.com/PUVKID/Camera-Module-Gap-Detection-Project) | 기하 정렬·영상 처리 | 영상 정렬과 영역별 필터로 카메라 모듈 틈 측정 |
 
 <a name="-컴퓨터-비전자연어-처리-연결"></a>
 <a name="️-검출-결과를-대화로-연결하기"></a>
@@ -37,10 +37,10 @@ Python · C# · Arduino · Unity
 
 ## 비전·언어 연결
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="-drawing-analysis-project"></a>[Drawing Analysis Project](https://github.com/PUVKID/Drawing-Analysis-Project) | 탐지 요약·대화 | YOLO 결과를 GPT 대화와 분석 PDF로 연결 |
-| <a name="️-art-therapy-dialogue-project"></a>[Art Therapy Dialogue Project](https://github.com/PUVKID/Art-Therapy-Dialogue-Project) | 대화·평가 | 그림 탐지 요약을 이용한 대화 구성과 평가 |
+| <a name="️-art-therapy-dialogue-project"></a>[Art Therapy Dialogue Project](https://github.com/PUVKID/Art-Therapy-Dialogue-Project) | 대화·평가 | 그림 탐지 요약으로 대화를 구성하고 평가 |
 
 <a name="-자연어-처리"></a>
 <a name="-감성콘텐츠-분류"></a>
@@ -48,7 +48,7 @@ Python · C# · Arduino · Unity
 
 ## 자연어 처리
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="-pokémon-brand-analysis-project"></a>[Pokémon Brand Analysis Project](https://github.com/PUVKID/Pokemon-Brand-Analysis-Project) | 감성·콘텐츠 분류 | 리뷰·콘텐츠의 분류와 감성 분석 |
 
@@ -59,9 +59,9 @@ Python · C# · Arduino · Unity
 
 ## 추천 시스템
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
-| <a name="️-adhd-play-therapy-project"></a>[ADHD Play Therapy Project](https://github.com/PUVKID/ADHD-Play-Therapy-Project) | 사례 기반 추론 | 유사 사례를 이용한 놀이치료 콘텐츠 추천 연구 |
+| <a name="️-adhd-play-therapy-project"></a>[ADHD Play Therapy Project](https://github.com/PUVKID/ADHD-Play-Therapy-Project) | 사례 기반 추론 | 유사 사례에 따른 놀이치료 콘텐츠 추천 설계 |
 | <a name="-rating-aware-recommendation-project"></a>[Rating Aware Recommendation Project](https://github.com/PUVKID/Rating-Aware-Recommendation-Project) | 그래프 신호 처리 | 사용자 평점을 반영한 그래프 필터 추천 |
 
 <a name="-시계열-머신러닝"></a>
@@ -70,9 +70,9 @@ Python · C# · Arduino · Unity
 
 ## 시계열 예측·모의운용
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
-| <a name="-upbit-paper-trading-project"></a>[Upbit Paper Trading Project](https://github.com/PUVKID/Upbit-Paper-Trading-Project) | 트리 앙상블 | XGBoost 예측·모의체결·대시보드 |
+| <a name="-upbit-paper-trading-project"></a>[Upbit Paper Trading Project](https://github.com/PUVKID/Upbit-Paper-Trading-Project) | 트리 앙상블 | XGBoost 예측·모의체결 결과를 보여 주는 대시보드 |
 | [ETF Project](https://github.com/PUVKID/ETF-Project) | 사전학습 시계열 모델 | Chronos-2 추가 학습과 원화 기준 ETF 모의운용 |
 
 <a name="-임베디드iot"></a>
@@ -81,11 +81,11 @@ Python · C# · Arduino · Unity
 
 ## 임베디드·IoT
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="-indoor-air-monitor-project"></a>[Indoor Air Monitor Project](https://github.com/PUVKID/Indoor-Air-Monitor-Project) | 센서 통신 | Arduino 공기질 측정과 Python CSV 기록 |
 
-[ICT-IndoorAD](https://github.com/ICT-IndoorAD) 공동 프로젝트에서 제가 작성한 Arduino 측정·LCD·LED 표시와 Python CSV 기록 부분입니다. [개인 담당 저장소](https://github.com/ICT-IndoorAD/Yunsuk-Kwak)에도 같은 작업을 정리했습니다.
+[ICT-IndoorAD](https://github.com/ICT-IndoorAD)의 공동 프로젝트에서 Arduino 센서 측정·LCD/LED 표시와 Python CSV 기록을 맡았습니다. 코드는 [개인 담당 저장소](https://github.com/ICT-IndoorAD/Yunsuk-Kwak)에도 있습니다.
 
 <a name="️-데스크톱-소프트웨어"></a>
 <a name="-qt문서-처리"></a>
@@ -94,10 +94,10 @@ Python · C# · Arduino · Unity
 
 ## 데스크톱 소프트웨어
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="-flipring-project"></a>[FlipRing Project](https://github.com/PUVKID/FlipRing-File-Converter-Project) | 문서 처리 | 파일 변환·PDF 편집·OCR을 제공하는 Windows 앱 |
-| <a name="-codex-orbit"></a>[Codex Orbit](https://github.com/PUVKID/Codex-Orbit) | 바탕화면 위젯·알림 | 로컬 Codex 상태와 모델 변경 알림을 확인하는 Windows 도구 |
+| <a name="-codex-orbit"></a>[Codex Orbit](https://github.com/PUVKID/Codex-Orbit) | 바탕화면 위젯·알림 | 로컬 Codex 작업 상태·모델 변경을 보여 주는 Windows 위젯 |
 
 <a name="-android-자동화"></a>
 <a name="-접근성화면-인식"></a>
@@ -105,9 +105,9 @@ Python · C# · Arduino · Unity
 
 ## Android 자동화
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
-| <a name="-pxe-project"></a>[PXE Project](https://github.com/PUVKID/PXE-Touch-Macro-Project) | 접근성·화면 인식 | 글자와 접근성 정보를 이용한 조건별 터치 자동화 |
+| <a name="-pxe-project"></a>[PXE Project](https://github.com/PUVKID/PXE-Touch-Macro-Project) | 접근성·화면 인식 | 화면 글자·접근성 정보에 따른 조건별 터치 자동화 |
 
 <a name="-게임-프로그래밍"></a>
 <a name="️-unity-게임플레이"></a>
@@ -115,7 +115,7 @@ Python · C# · Arduino · Unity
 
 ## 게임 프로그래밍
 
-| 프로젝트 | 접근 방법 | 구현·연구 내용 |
+| 프로젝트 | 접근 방법 | 주요 내용 |
 | --- | --- | --- |
 | <a name="️-hole-it-project"></a>[Hole It Project](https://github.com/PUVKID/Hole-It-Game-Project) | Unity 게임플레이 | 물체를 흡수하며 성장하는 게임 |
 
