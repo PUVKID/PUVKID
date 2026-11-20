@@ -3,27 +3,53 @@
 </p>
 
 <a name="-안녕하세요-곽윤석입니다"></a>
+<div align="center">
+
 # Kwak Yunsuk · 곽윤석
 
 컴퓨터 비전과 딥러닝을 연구하고, 소프트웨어를 만듭니다.
+
+[ORCID](https://orcid.org/0009-0004-0207-4000) · [논문과 게재 정보](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md) · [프로젝트 둘러보기](#projects)
+
+</div>
+
+<div align="center">
 
 ## 읽기 수준 선택
 
 **편한 출발점을 고르면 프로젝트와 차수별 문서도 같은 레벨로 이어집니다.**
 
+</div>
+
+<p align="center">
+  <a id="reading-level-1"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md"><img src="https://img.shields.io/badge/LEVEL_1-Beginner-5575A6?style=for-the-badge" alt="LEVEL 1 - Beginner" /></a>
+  <a id="reading-level-2"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md"><img src="https://img.shields.io/badge/LEVEL_2-Explorer-597E8D?style=for-the-badge" alt="LEVEL 2 - Explorer" /></a>
+  <a id="reading-level-3"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md"><img src="https://img.shields.io/badge/LEVEL_3-Practitioner-65769A?style=for-the-badge" alt="LEVEL 3 - Practitioner" /></a>
+  <a id="reading-level-4"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md"><img src="https://img.shields.io/badge/LEVEL_4-Advanced-796C94?style=for-the-badge" alt="LEVEL 4 - Advanced" /></a>
+  <a id="reading-level-5"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md"><img src="https://img.shields.io/badge/LEVEL_5-Expert-716D86?style=for-the-badge" alt="LEVEL 5 - Expert" /></a>
+</p>
+
+<details>
+<summary>레벨별 설명 펼쳐보기</summary>
+
 | 읽기 수준 · 출발점 | 설명 범위 |
 | --- | --- |
-| <a id="reading-level-1"></a>[**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md)<br>처음 접하는 분께 | 기술 이름보다 **무엇을 만들었고 어떤 순서로 동작하는지**부터 읽습니다. 낯선 용어는 생활 속 예와 입력·출력으로 풀어 설명합니다. |
-| <a id="reading-level-2"></a>[**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md)<br>원리를 알아보는 분께 | 각 기능을 연결하는 **개념과 처리 흐름**을 살펴봅니다. 비슷해 보이는 연구도 입력 변환·특징 변환·분류·검출처럼 역할을 나누어 읽습니다. |
-| <a id="reading-level-3"></a>[**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md)<br>직접 사용하고 실험하는 분께 | **준비물·실행 순서·설정·결과 확인**을 중심으로 읽습니다. 코드가 제공된 프로젝트와 논문 중심 연구를 구분하고, 실제로 가능한 범위를 확인합니다. |
-| <a id="reading-level-4"></a>[**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md)<br>구현을 이해하고 확장하는 분께 | **모듈 경계·설계 선택·실패 처리·실험 조건**을 살펴봅니다. 변경하려는 부분이 다른 단계와 결과 해석에 주는 영향을 함께 확인합니다. |
-| <a id="reading-level-5"></a>[**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)<br>전문적으로 검토하는 분께 | **평가 프로토콜·측정 근거·재현 조건·한계**를 대조합니다. 원고의 주장, 공개 코드의 구현, 실제 관측 기록이 같은 범위를 설명하는지 검토합니다. |
+| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md)<br>처음 접하는 분께 | 기술 이름보다 **무엇을 만들었고 어떤 순서로 동작하는지**부터 읽습니다. 낯선 용어는 생활 속 예와 입력·출력으로 풀어 설명합니다. |
+| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md)<br>원리를 알아보는 분께 | 각 기능을 연결하는 **개념과 처리 흐름**을 살펴봅니다. 비슷해 보이는 연구도 입력 변환·특징 변환·분류·검출처럼 역할을 나누어 읽습니다. |
+| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md)<br>직접 사용하고 실험하는 분께 | **준비물·실행 순서·설정·결과 확인**을 중심으로 읽습니다. 코드가 제공된 프로젝트와 논문 중심 연구를 구분하고, 실제로 가능한 범위를 확인합니다. |
+| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md)<br>구현을 이해하고 확장하는 분께 | **모듈 경계·설계 선택·실패 처리·실험 조건**을 살펴봅니다. 변경하려는 부분이 다른 단계와 결과 해석에 주는 영향을 함께 확인합니다. |
+| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)<br>전문적으로 검토하는 분께 | **평가 프로토콜·측정 근거·재현 조건·한계**를 대조합니다. 원고의 주장, 공개 코드의 구현, 실제 관측 기록이 같은 범위를 설명하는지 검토합니다. |
+
+</details>
 
 
+<a id="projects"></a>
 
-**Python · C# · Arduino · Unity**
+<div align="center">
 
-[ORCID](https://orcid.org/0009-0004-0207-4000) · [논문과 게재 정보](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md)
+## 프로젝트
+
+</div>
 
 [컴퓨터 비전](#computer-vision) · [비전·언어 연결](#vision-language) · [자연어 처리](#nlp) · [추천 시스템](#recommenders) · [시계열 예측·모의운용](#time-series) · [임베디드·IoT](#embedded) · [데스크톱 소프트웨어](#desktop) · [Android 자동화](#android) · [게임 프로그래밍](#game)
 
@@ -34,7 +60,11 @@
 <a name="-기하-정렬영상-처리"></a>
 <a name="computer-vision"></a>
 
+<div align="center">
+
 ## 컴퓨터 비전
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -52,7 +82,11 @@
 <a name="️-검출-결과를-대화로-연결하기"></a>
 <a name="vision-language"></a>
 
+<div align="center">
+
 ## 비전·언어 연결
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -64,7 +98,11 @@
 <a name="-감성콘텐츠-분류"></a>
 <a name="nlp"></a>
 
+<div align="center">
+
 ## 자연어 처리
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -76,7 +114,11 @@
 <a name="️-그래프-신호-처리"></a>
 <a name="recommenders"></a>
 
+<div align="center">
+
 ## 추천 시스템
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -88,7 +130,11 @@
 <a name="-트리-앙상블"></a>
 <a name="time-series"></a>
 
+<div align="center">
+
 ## 시계열 예측·모의운용
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -100,7 +146,11 @@
 <a name="-센서-통신"></a>
 <a name="embedded"></a>
 
+<div align="center">
+
 ## 임베디드·IoT
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -114,7 +164,11 @@
 <a name="-바탕화면-위젯작업-알림"></a>
 <a name="desktop"></a>
 
+<div align="center">
+
 ## 데스크톱 소프트웨어
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -126,7 +180,11 @@
 <a name="-접근성화면-인식"></a>
 <a name="android"></a>
 
+<div align="center">
+
 ## Android 자동화
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
@@ -137,12 +195,63 @@
 <a name="️-unity-게임플레이"></a>
 <a name="game"></a>
 
+<div align="center">
+
 ## 게임 프로그래밍
+
+</div>
 
 | 프로젝트 | 접근 방법·주요 내용 |
 | --- | --- |
 | <a name="️-hole-it-project"></a>[**Hole It Project**](https://github.com/PUVKID/Hole-It-Game-Project)<a id="hole-it-project"></a> | **Unity 게임플레이**<br>물체를 흡수하며 성장하는 게임 |
 
+
+
+---
+
+<div align="center">
+
+## 기술과 도구
+
+**Python · C# · Arduino · Unity**
+
+<p>
+  <a href="https://github.com/PUVKID/Lung-CT-Privacy-Project"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/PUVKID/CXR-Privacy-Lab"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" /></a>
+  <a href="https://github.com/PUVKID/Lung-CT-Privacy-Project"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" /></a>
+  <a href="https://github.com/PUVKID/Ball-Defect-Detection-Project"><img src="https://img.shields.io/badge/OpenCV-5C6F91?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" /></a>
+</p>
+<p>
+  <a href="https://github.com/PUVKID/Hole-It-Game-Project"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" /></a>
+  <a href="https://github.com/PUVKID/FlipRing-File-Converter-Project"><img src="https://img.shields.io/badge/PySide6-557D70?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="PySide6" /></a>
+  <a href="https://github.com/PUVKID/PXE-Touch-Macro-Project"><img src="https://img.shields.io/badge/Android-3D8067?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" /></a>
+  <a href="https://github.com/PUVKID/Hole-It-Game-Project"><img src="https://img.shields.io/badge/Unity-414756?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /></a>
+</p>
+<p>
+  <a href="https://github.com/PUVKID/Indoor-Air-Monitor-Project"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino" /></a>
+  <a href="https://github.com/PUVKID/PUVKID"><img src="https://img.shields.io/badge/Git-C05C42?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" /></a>
+</p>
+
+</div>
+
+<div align="center">
+
+## GitHub 활동
+
+<p>
+  <a href="https://github.com/PUVKID"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PUVKID&amp;hide_longest_streak=true&amp;theme=github-dark-blue" />
+    <img src="https://streak-stats.demolab.com?user=PUVKID&amp;hide_longest_streak=true" alt="PUVKID GitHub 기여 활동" width="420" />
+  </picture></a>
+  <a href="https://github.com/PUVKID?tab=repositories"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PUVKID&amp;layout=donut&amp;theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PUVKID&amp;layout=donut&amp;theme=default" alt="PUVKID 공개 저장소 사용 언어" width="300" />
+  </picture></a>
+</p>
+
+[GitHub 프로필](https://github.com/PUVKID) · [전체 저장소](https://github.com/PUVKID?tab=repositories)
+
+</div>
 
 ---
 
