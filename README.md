@@ -207,7 +207,7 @@
 <tbody>
 <tr>
 <td align="center"><a name="️-adhd-play-therapy-project"></a><a href="https://github.com/PUVKID/ADHD-Play-Therapy-Project"><strong>ADHD Play Therapy Project</strong></a><a id="adhd-play-therapy-project"></a></td>
-<td align="center"><strong>사례 기반 추론</strong><br>유사 사례에 따른 놀이치료 콘텐츠 추천 설계</td>
+<td align="center"><strong>사례 기반 추론</strong><br>유사사례에 따른 놀이치료 콘텐츠 추천 설계</td>
 </tr>
 <tr>
 <td align="center"><a name="-rating-aware-recommendation-project"></a><a href="https://github.com/PUVKID/Rating-Aware-Recommendation-Project"><strong>Rating Aware Recommendation Project</strong></a><a id="rating-aware-recommendation-project"></a></td>
@@ -346,7 +346,6 @@
 </tr>
 </tbody>
 </table>
-
 
 
 ---

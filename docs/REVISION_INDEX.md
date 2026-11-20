@@ -6,10 +6,9 @@
 **읽기 수준 선택** · [LEVEL 1 - Beginner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
 
 
-
-| 둘러보기 | 내용 |
-| --- | --- |
-| 프로필 | **이미지** [단단지 배너](../assets)<br>**소개** [소개](../README.md)<br>**프로젝트** [주제별 프로젝트](REVISION_INDEX.md) |
+| 둘러보기 | 이미지 | 소개 | 프로젝트 |
+| --- | --- | --- | --- |
+| 프로필 | [단단지 배너](../assets) | [소개](../README.md) | [주제별 프로젝트](REVISION_INDEX.md) |
 
 ## 컴퓨터 비전
 
@@ -33,7 +32,7 @@
 
 ### [**CXR Privacy Lab**](https://github.com/PUVKID/CXR-Privacy-Lab)
 
-**주요 내용:** 흉부 X선의 블러·모자이크와 재식별 성능 비교
+**주요 내용:** 흉부 X 선의 블러·모자이크와 재식별 성능 비교
 
 **차수별 문서:** [전체 차수](https://github.com/PUVKID/CXR-Privacy-Lab/blob/main/문서/차수_목차.md)
 
@@ -45,7 +44,7 @@
 
 ### [**SafeWalk Project**](https://github.com/PUVKID/SafeWalk-Object-Detection-Project)
 
-**주요 내용:** 보행환경 데이터 통합과 8개 클래스 탐지
+**주요 내용:** 보행 환경 데이터 통합과 8개 클래스 탐지
 
 **차수별 문서:** [전체 차수](https://github.com/PUVKID/SafeWalk-Object-Detection-Project/blob/main/docs/REVISION_INDEX.md)
 
@@ -90,7 +89,7 @@
 
 ### [**ADHD Play Therapy Project**](https://github.com/PUVKID/ADHD-Play-Therapy-Project)
 
-**주요 내용:** 유사 사례에 따른 놀이치료 콘텐츠 추천 설계
+**주요 내용:** 유사사례에 따른 놀이치료 콘텐츠 추천 설계
 
 **차수별 문서:** [전체 차수](https://github.com/PUVKID/ADHD-Play-Therapy-Project/blob/main/docs/REVISION_INDEX.md)
 
