@@ -21,24 +21,6 @@
 
 </div>
 
-<a id="reading-level-1"></a>
-<h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md">🟦 LEVEL 1 — Beginner</a></h3>
-
-<a id="reading-level-2"></a>
-<h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md">🟩 LEVEL 2 — Explorer</a></h3>
-
-<a id="reading-level-3"></a>
-<h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md">🟨 LEVEL 3 — Practitioner</a></h3>
-
-<a id="reading-level-4"></a>
-<h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md">🟧 LEVEL 4 — Advanced</a></h3>
-
-<a id="reading-level-5"></a>
-<h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md">🟪 LEVEL 5 — Expert</a></h3>
-
-<details>
-<summary>레벨별 설명 펼쳐보기</summary>
-
 <table align="center">
 <thead><tr>
 <th align="center">읽기 수준 · 출발점</th>
@@ -46,29 +28,27 @@
 </tr></thead>
 <tbody>
 <tr>
-<td align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md"><strong>LEVEL 1 - Beginner</strong></a><br>처음 접하는 분께</td>
+<td align="center"><a id="reading-level-1"></a><a id="-level-1--beginner"></a><h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md"><strong>🟦 LEVEL 1 - Beginner</strong></a></h3><br>처음 접하는 분께</td>
 <td align="center">기술 이름보다 <strong>무엇을 만들었고 어떤 순서로 동작하는지</strong>부터 읽습니다.<br>낯선 용어는 생활 속 예와 입력·출력으로 풀어 설명합니다.</td>
 </tr>
 <tr>
-<td align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md"><strong>LEVEL 2 - Explorer</strong></a><br>원리를 알아보는 분께</td>
+<td align="center"><a id="reading-level-2"></a><a id="-level-2--explorer"></a><h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md"><strong>🟩 LEVEL 2 - Explorer</strong></a></h3><br>원리를 알아보는 분께</td>
 <td align="center">각 기능을 연결하는 <strong>개념과 처리 흐름</strong>을 살펴봅니다.<br>비슷해 보이는 연구도 입력 변환·특징 변환·분류·검출처럼 역할을 나누어 읽습니다.</td>
 </tr>
 <tr>
-<td align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md"><strong>LEVEL 3 - Practitioner</strong></a><br>직접 사용하고 실험하는 분께</td>
+<td align="center"><a id="reading-level-3"></a><a id="-level-3--practitioner"></a><h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md"><strong>🟨 LEVEL 3 - Practitioner</strong></a></h3><br>직접 사용하고 실험하는 분께</td>
 <td align="center"><strong>준비물·실행 순서·설정·결과 확인</strong>을 중심으로 읽습니다.<br>코드가 제공된 프로젝트와 논문 중심 연구를 구분하고, 실제로 가능한 범위를 확인합니다.</td>
 </tr>
 <tr>
-<td align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md"><strong>LEVEL 4 - Advanced</strong></a><br>구현을 이해하고 확장하는 분께</td>
+<td align="center"><a id="reading-level-4"></a><a id="-level-4--advanced"></a><h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md"><strong>🟧 LEVEL 4 - Advanced</strong></a></h3><br>구현을 이해하고 확장하는 분께</td>
 <td align="center"><strong>모듈 경계·설계 선택·실패 처리·실험 조건</strong>을 살펴봅니다.<br>변경하려는 부분이 다른 단계와 결과 해석에 주는 영향을 함께 확인합니다.</td>
 </tr>
 <tr>
-<td align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md"><strong>LEVEL 5 - Expert</strong></a><br>전문적으로 검토하는 분께</td>
+<td align="center"><a id="reading-level-5"></a><a id="-level-5--expert"></a><h3 align="center"><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md"><strong>🟪 LEVEL 5 - Expert</strong></a></h3><br>전문적으로 검토하는 분께</td>
 <td align="center"><strong>평가 프로토콜·측정 근거·재현 조건·한계</strong>를 대조합니다.<br>원고의 주장, 공개 코드의 구현, 실제 관측 기록이 같은 범위를 설명하는지 검토합니다.</td>
 </tr>
 </tbody>
 </table>
-
-</details>
 
 
 <a id="projects"></a>
