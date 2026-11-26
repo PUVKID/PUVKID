@@ -17,28 +17,6 @@
   <a href="README.md"><img src="assets/readme/language-ko-active.svg" alt="한국어 · 현재 언어" width="126" height="32" /></a>
   <a href="en/README.md"><img src="assets/readme/language-en-link.svg" alt="English" width="126" height="32" /></a>
 </p>
-<p align="center">
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md"><img src="assets/readme/level-1.svg" alt="LEVEL 1 - Beginner" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md"><img src="assets/readme/level-2.svg" alt="LEVEL 2 - Explorer" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md"><img src="assets/readme/level-3.svg" alt="LEVEL 3 - Practitioner" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md"><img src="assets/readme/level-4.svg" alt="LEVEL 4 - Advanced" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md"><img src="assets/readme/level-5.svg" alt="LEVEL 5 - Expert" width="92" height="32" /></a>
-</p>
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
-  <img src="assets/readme/flow-ko-light.svg" alt="Kwak Yunsuk · 곽윤석: 연구 질문 → 코드 · 실험 · 분석 → 프로젝트 · 논문" width="100%" />
-</picture>
-<!-- readme-header32:end -->
-
-컴퓨터 비전과 딥러닝을 연구하고, 소프트웨어를 만듭니다.
-
-[ORCID](https://orcid.org/0009-0004-0207-4000) · [논문과 게재 정보](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md) · [프로젝트 둘러보기](#projects)
-
-</div>
-
 <div align="center">
 
 ## 읽기 수준 선택
@@ -57,6 +35,23 @@
 <tr><td align="left"><a id="reading-level-5"></a><a id="-level-5--expert"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md">LEVEL 5 - Expert</a></td><td align="left">전문적으로 검토하는 분께</td></tr>
 </tbody>
 </table>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark-mobile.svg" />
+  <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
+  <img src="assets/readme/flow-ko-light.svg" alt="Kwak Yunsuk · 곽윤석: 연구 질문 → 코드 · 실험 · 분석 → 프로젝트 · 논문" width="100%" />
+</picture>
+<!-- readme-header32:end -->
+
+컴퓨터 비전과 딥러닝을 연구하고, 소프트웨어를 만듭니다.
+
+[ORCID](https://orcid.org/0009-0004-0207-4000) · [논문과 게재 정보](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md) · [프로젝트 둘러보기](#projects)
+
+</div>
+
+
 
 <details>
 <summary>수준별 설명</summary>

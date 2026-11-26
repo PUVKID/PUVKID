@@ -17,28 +17,6 @@
   <a href="../README.md"><img src="../assets/readme/language-ko-link.svg" alt="한국어" width="126" height="32" /></a>
   <a href="README.md"><img src="../assets/readme/language-en-active.svg" alt="English · current language" width="126" height="32" /></a>
 </p>
-<p align="center">
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md"><img src="../assets/readme/level-1.svg" alt="LEVEL 1 - Beginner" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md"><img src="../assets/readme/level-2.svg" alt="LEVEL 2 - Explorer" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md"><img src="../assets/readme/level-3.svg" alt="LEVEL 3 - Practitioner" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md"><img src="../assets/readme/level-4.svg" alt="LEVEL 4 - Advanced" width="92" height="32" /></a>
-  <a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md"><img src="../assets/readme/level-5.svg" alt="LEVEL 5 - Expert" width="92" height="32" /></a>
-</p>
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="../assets/readme/flow-en-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../assets/readme/flow-en-light.svg" />
-  <img src="../assets/readme/flow-en-light.svg" alt="Kwak Yunsuk · 곽윤석: Research questions → Code · experiments · analysis → Projects · papers" width="100%" />
-</picture>
-<!-- readme-header32:end -->
-
-I research computer vision and deep learning and build software.
-
-[ORCID](https://orcid.org/0009-0004-0207-4000) · [Papers and publication information](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md) · [Explore projects](#projects)
-
-</div>
-
 <div align="center">
 
 ## Choose a reading level
@@ -57,6 +35,23 @@ I research computer vision and deep learning and build software.
 <tr><td align="left"><a id="reading-level-5"></a><a id="-level-5--expert"></a><a href="docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md">LEVEL 5 - Expert</a></td><td align="left">For expert reviewers</td></tr>
 </tbody>
 </table>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark-mobile.svg" />
+  <source media="(max-width: 600px)" srcset="../assets/readme/flow-en-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/readme/flow-en-light.svg" />
+  <img src="../assets/readme/flow-en-light.svg" alt="Kwak Yunsuk · 곽윤석: Research questions → Code · experiments · analysis → Projects · papers" width="100%" />
+</picture>
+<!-- readme-header32:end -->
+
+I research computer vision and deep learning and build software.
+
+[ORCID](https://orcid.org/0009-0004-0207-4000) · [Papers and publication information](docs/%EB%85%BC%EB%AC%B8%EB%AA%A9%EB%A1%9D.md) · [Explore projects](#projects)
+
+</div>
+
+
 
 <details>
 <summary>About the levels</summary>
