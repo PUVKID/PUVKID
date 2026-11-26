@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../en/README.md)
+<!-- language-choice:end -->
+
 <a name="️-프로젝트-탐색"></a>
 # 프로젝트 탐색
 
