@@ -36,13 +36,6 @@
 </tbody>
 </table>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
-  <img src="assets/readme/flow-ko-light.svg" alt="Kwak Yunsuk · 곽윤석: 연구 질문 → 코드 · 실험 · 분석 → 프로젝트 · 논문" width="100%" />
-</picture>
 <!-- readme-header32:end -->
 
 컴퓨터 비전과 딥러닝을 연구하고, 소프트웨어를 만듭니다.

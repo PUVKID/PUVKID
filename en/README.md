@@ -36,13 +36,6 @@
 </tbody>
 </table>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="../assets/readme/flow-en-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../assets/readme/flow-en-light.svg" />
-  <img src="../assets/readme/flow-en-light.svg" alt="Kwak Yunsuk · 곽윤석: Research questions → Code · experiments · analysis → Projects · papers" width="100%" />
-</picture>
 <!-- readme-header32:end -->
 
 I research computer vision and deep learning and build software.
